@@ -1,7 +1,7 @@
 # Government-Bid-Analysis-Tool
 Municipal Bid Data Analysis
 
-This repository contains a console program focused on working with information extracted from a municipal government data feed containing bids submitted for the auction of properties. The assignment involves exploring sorting algorithms by implementing both a selection sort and quicksort on a linked list of bids loaded from CSV files.
+This repository contains a console program focused on working with information extracted from a municipal government data feed containing bids submitted for the auction of properties. The assignment involves exploring sorting algorithms by implementing a linked list of bids loaded from CSV files.
 
 Data Sets
 
